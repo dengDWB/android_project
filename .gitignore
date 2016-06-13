@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <<<<<<< abff38b2d3f7c2ee4cda0e378f8e4f4569e4ac68
+=======
+>>>>>>> abff38b2d3f7c2ee4cda0e378f8e4f4569e4ac68
 # Compiled Object files
 *.slo
 *.lo
@@ -28,6 +31,7 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 =======
 .gradle
 /local.properties
@@ -37,3 +41,5 @@
 /build
 /captures
 >>>>>>> 打开pdf
+=======
+>>>>>>> abff38b2d3f7c2ee4cda0e378f8e4f4569e4ac68
